@@ -29,6 +29,26 @@
 			"name": "developer.phone-number",
 			"description": "The Developer Phone Number.",
 			"type": "java.lang.String"
-		}
+		},
+    {
+      "name": "product.name",
+      "description": "The Product Name.",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "product.website",
+      "description": "The Product Website.",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "product.qq",
+      "description": "The Product QQ Number.",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "product.phone-number",
+      "description": "The Product Phone Number.",
+      "type": "java.lang.String"
+    }
 	]
 }
